@@ -15,3 +15,4 @@
 - [掘金前端板块](https://juejin.im/timeline/frontend)
 - [MDN JavaScript教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - https://github.com/ddzy/fe-necessary-book
+- [CSS奇技淫巧](https://github.com/chokcoco/iCSS)
