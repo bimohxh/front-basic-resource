@@ -11,4 +11,5 @@
 
 ## 其它资源
 
+- [掘金前端板块](https://juejin.im/timeline/frontend)
 - https://github.com/ddzy/fe-necessary-book
